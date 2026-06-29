@@ -1,0 +1,6 @@
+{
+  "name": "KunalSocialHub",
+  "description": "KunalSocialHub - The ultimate trending social connection hub, link-in-bio page, and personalized portfolio built with sleek fluid mesh gradients and interactive micro-animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
